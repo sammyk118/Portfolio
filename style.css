@@ -1,4 +1,5 @@
 html{
     scroll-behavior: smooth;
 }
-  
+
+.button:hover {background-color: #3e8e41}
