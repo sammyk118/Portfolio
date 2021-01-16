@@ -37,3 +37,7 @@ html{
 #butBord{
     border-color: #98B4D4 ;
 }
+
+#cardName{
+    text-align: center;
+}
