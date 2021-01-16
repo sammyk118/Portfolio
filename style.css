@@ -6,11 +6,11 @@ html{
 
 #topBar{
     margin-bottom: 10px;
-    background-color: #dfcfbe;
+    background-color:  #5b5ea6;
 }
 
 #contents{
-    background-color: #5b5ea6;
+    background-color: #dfcfbe;
 }
 
 #projectcell{
@@ -24,4 +24,12 @@ html{
 #card1{
     padding: 10px;
     background-color: #98B4D4;
+}
+
+#headButtons{
+    color: #dfcfbe;
+}
+
+#topName{
+    text-align: right;
 }
