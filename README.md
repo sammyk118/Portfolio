@@ -55,7 +55,7 @@ Off canvas sidebar:
 
 **Sammy Kroner**
 
-[LinkedIn](www.linkedin.com/in/samuel-kroner-44aa11169)
+[LinkedIn](https://www.linkedin.com/in/samuel-kroner-44aa11169)
 
 [GitHub](https://github.com/sammyk118)
 
