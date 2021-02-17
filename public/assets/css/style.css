@@ -1,0 +1,49 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.button:hover {background-color: #3e8e41}
+
+#topBar{
+    margin-bottom: 10px;
+    background-color:  #5b5ea6;
+}
+
+.topBar{
+    position: fixed;
+}
+
+#contents{
+    background-color: #dfcfbe;
+}
+
+#projectcell{
+    padding-bottom: 10px;
+}
+
+#sideBar{
+    background-color: #98b4d4;
+}
+
+#card1{
+    padding: 10px;
+    background-color: #98B4D4;
+}
+
+#headButtons{
+    color: #dfcfbe;
+}
+
+#topName{
+    text-align: right;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#butBord{
+    border-color: #98B4D4 ;
+}
+
+#cardName{
+    text-align: center;
+}
