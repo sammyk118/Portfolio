@@ -15,7 +15,10 @@ function Header() {
                             <Link to="/home" className="nav-link active">Home</Link>
                         </li>
                         <li className="nav-item">
-                            <Link to="/projects" className="nav-link" >Link</Link>
+                            <Link to="/projects" className="nav-link" >Projects</Link>
+                        </li>
+                        <li className="nav-item">
+                            <a href="https://drive.google.com/file/d/18AwA8QswSWKHv44ujMSJDww_o72pU1lc/view?usp=sharing" className="nav-link">Resume</a>
                         </li>
                     </ul>
                 </div>

@@ -10,7 +10,7 @@ function Home() {
                     <img className="thumbnail" src="./assets/images/Profile.jpg" />
                 </div>
                 <div className="cell auto">
-                    <p>Sammy is an aspiring web designer with a degree in computer science, and experience in JavaScript, C++, HTML,
+                    <p>Sammy is an aspiring web designer with a degree in computer science, and experience in JavaScript, C++, React, HTML,
               CSS, jQuery, and Server Side APIs.</p>
                     <p></p>
                 </div>

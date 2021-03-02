@@ -2,9 +2,9 @@
 [Deployed Website](https://sammyk118.github.io/Portfolio/)
 
 
-This website uses the foundation framework with light JavaScript and jQuery to give information about me and my projects.
+This website uses the React with Bootsatrap to display my projects
 
-![Screenshot of Website](./assets/site.png)
+![Screenshot of Website](./assets/site.PNG)
 
 
 Foundation Cards:
