@@ -5,7 +5,7 @@ function Header() {
     return (
         <nav className="navbar navbar-expand-md navbar-dark  bg-dark">
             <div className="container-fluid">
-                <Link to="/home" className="navbar-brand" href="#">Fixed navbar</Link>
+                <Link to="/home" className="navbar-brand" href="#">Sammy Kroner</Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>

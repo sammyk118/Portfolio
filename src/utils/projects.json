@@ -13,15 +13,15 @@
     },    
     {
         "name": "Clicky Game",
-        "img": "employee.png",
+        "img": "./assets/clicky.png",
         "site": "https://sammyk118.github.io/Clicky-Game/",
         "git": "https://github.com/sammyk118/Clicky-Game"
     },    
     {
-        "name": "Work Day Scheduler",
-        "img": "./assets/Workdayscheduler.png",
-        "site": "https://sammyk118.github.io/work-day-scheduler/",
-        "git": "https://github.com/sammyk118/work-day-scheduler"
+        "name": "Google Books",
+        "img": "./assets/books.png",
+        "site": "https://ancient-woodland-82489.herokuapp.com/",
+        "git": "https://github.com/sammyk118/Google-Books"
     },    
     {
         "name": "API Dashboard",

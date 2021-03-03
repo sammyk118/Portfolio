@@ -10,8 +10,8 @@ function Project(props) {
                     <p className="card-text">{props.description}</p>
                 </div>
                 <ul className="list-group list-group-flush">
-                    <li className="list-group-item"><a href={props.git}>Github</a></li>
-                    <li className="list-group-item"><a href={props.site }>Website</a></li>
+                   <a href={props.git} target="_blank">Github</a>
+                    <li className="list-group-item"><a href={props.site } target="_blank">Website</a></li>
 
                 </ul>
                 <div className="card-body">

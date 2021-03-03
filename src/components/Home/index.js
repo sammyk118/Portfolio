@@ -7,7 +7,7 @@ function Home() {
             <div className="grid-y grid-padding-x" id="sideBar">
                 <br />
                 <div className="cell shrink">
-                    <img className="thumbnail" src="./assets/images/Profile.jpg" />
+                    <img className="thumbnail" src="./assets/images/Profile.jpg" alt="profile"/>
                 </div>
                 <div className="cell auto">
                     <p>Sammy is an aspiring web designer with a degree in computer science, and experience in JavaScript, C++, React, HTML,
