@@ -18,7 +18,7 @@ function Header() {
                             <Link to="/projects" className="nav-link" >Projects</Link>
                         </li>
                         <li className="nav-item">
-                            <a href="https://drive.google.com/file/d/18AwA8QswSWKHv44ujMSJDww_o72pU1lc/view?usp=sharing" className="nav-link" target="_blank">Resume</a>
+                            <a href="https://drive.google.com/file/d/18AwA8QswSWKHv44ujMSJDww_o72pU1lc/view?usp=sharing" className="nav-link" target="_blank" rel="noreferrer">Resume</a>
                         </li>
                     </ul>
                 </div>
