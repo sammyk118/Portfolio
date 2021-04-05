@@ -7,7 +7,7 @@
     },
     {
         "name": "Underrated",
-        "img": "./assets/Underrated.png",
+        "img": "https://raw.githubusercontent.com/sammyk118/Portfolio/main/public/assets/Underrated.png",
         "site": "https://underrated-moviedb.herokuapp.com/",
         "git": "https://github.com/sammyk118/Underrated"
     },    
@@ -19,7 +19,7 @@
     },    
     {
         "name": "Google Books",
-        "img": "./assets/books.png",
+        "img": "https://raw.githubusercontent.com/sammyk118/Portfolio/main/public/assets/books.png",
         "site": "https://ancient-woodland-82489.herokuapp.com/",
         "git": "https://github.com/sammyk118/Google-Books"
     },    
@@ -31,7 +31,7 @@
     },    
     {
         "name": "Burger Tracker",
-        "img": "assets/Burgertracker.png",
+        "img": "https://raw.githubusercontent.com/sammyk118/Portfolio/main/public/assets/Burgertracker.png",
         "site": "https://stormy-headland-51458.herokuapp.com/",
         "git": "https://github.com/sammyk118/Express-handlebars-logger"
     }
