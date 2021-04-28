@@ -7,31 +7,31 @@
     },
     {
         "name": "Underrated",
-        "img": "https://raw.githubusercontent.com/sammyk118/Portfolio/main/public/assets/Underrated.png",
+        "img": "./assets/Underrated.png",
         "site": "https://underrated-moviedb.herokuapp.com/",
         "git": "https://github.com/sammyk118/Underrated"
-    },    
+    },
     {
         "name": "Clicky Game",
         "img": "./assets/clicky.png",
         "site": "https://sammyk118.github.io/Clicky-Game/",
         "git": "https://github.com/sammyk118/Clicky-Game"
-    },    
+    },
     {
         "name": "Google Books",
-        "img": "https://raw.githubusercontent.com/sammyk118/Portfolio/main/public/assets/books.png",
+        "img": "./assets/books.png",
         "site": "https://ancient-woodland-82489.herokuapp.com/",
         "git": "https://github.com/sammyk118/Google-Books"
-    },    
+    },
     {
         "name": "API Dashboard",
         "img": "assets/final-output.png",
         "site": "https://sammyk118.github.io/team7-score-dash/",
         "git": "https://github.com/sammyk118/team7-score-dash"
-    },    
+    },
     {
         "name": "Burger Tracker",
-        "img": "https://raw.githubusercontent.com/sammyk118/Portfolio/main/public/assets/Burgertracker.png",
+        "img": "./assets/Burgertracker.png",
         "site": "https://stormy-headland-51458.herokuapp.com/",
         "git": "https://github.com/sammyk118/Express-handlebars-logger"
     }
