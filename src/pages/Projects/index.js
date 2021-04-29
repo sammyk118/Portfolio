@@ -1,4 +1,3 @@
-import React from "react";
 import React, { useState, useEffect } from "react";
 import projectData from "../../utils/projects.json";
 import Project from "../../components/Project"
