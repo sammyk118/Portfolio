@@ -6,14 +6,11 @@ function Home() {
             aria-hidden="true" data-e="sxdx0q-e">
             <div className="grid-y grid-padding-x" id="sideBar">
                 <br />
-                <div className="cell shrink">
-                    <img className="thumbnail" src="https://raw.githubusercontent.com/sammyk118/Portfolio/main/public/assets/Profile.jpg" alt="profile" />
-                </div>
                 
                 <section id="hero" className="d-flex align-items-center">
                     <div className="container d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-delay="100">
-                        <h1>Kelly Adams</h1>
-                        <h2>I'm a professional illustrator from San Francisco</h2>
+                        <h1>Sammy Kroner</h1>
+                        <h2>Is a Web Developer from San Francisco with a degree in Computer Science</h2>
                         <a href="about.html" className="btn-about">About Me</a>
                     </div>
                 </section>
