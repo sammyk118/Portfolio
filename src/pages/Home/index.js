@@ -19,7 +19,6 @@ function Home() {
                     <p></p>
                 </div>
                 <footer className="cell">
-                    <p>Sammy Kroner</p>
                     <p>sammyk118@gmail.com</p>
                     <p>415-306-6325</p>
                 </footer>
